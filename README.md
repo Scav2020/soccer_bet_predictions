@@ -1,0 +1,2 @@
+# soccer_bet_predictions
+i am trying to create a bot that takes 2 years of football information and combines this to help predict outcomes of games including win/lose/draw , how many yellow cards in a game , how many shots on goal , which playuer has most shots on goal or usually first shot on goal , players to get yellow cards and if they is a pattern for instance does one player usually gets a yellow card around 70-80 minutes due to tiredness etc 
