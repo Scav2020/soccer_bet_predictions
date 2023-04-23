@@ -1,0 +1,2 @@
+Google Search: 'Best machine learning techniques for modeling soccer data' - link to blog post from Machine Learning Mastery on building regression models for soccer data. 
+Google search: 'Best feature engineering techniques for soccer data analytics' - link to blog post from Towards Data Science on feature selection techniques for soccer data analytics. 

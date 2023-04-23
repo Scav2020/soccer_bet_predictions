@@ -1,0 +1,15 @@
+{
+    "thoughts": {
+        "text": "To begin building the Flask app, you will need to install Flask and create a Python file. Once Flask is installed, you will set up your environment using by importing Flask at the top of your script file. You can then create a new Flask object and define a basic route. To setup API methods that receive data and returns predictions, you'll need to define such endpoints as functions within your main Flask app.",
+        "reasoning": "Flask has to be installed before building the flask app. Once installed, a new flask object must be created, and a basic route defined. To setup API methods that receive data and returns predictions, you'll need to define such endpoints as functions within your main Flask app.",
+        "plan": "- Install Flask. \\n- Import Flask library in your Python file.\\n- Create a new instance of the Flask class.\\n- Define basic route.\\n -Define a function for API method that returns predictions",
+        "criticism": "Flask installation can pose obstacles due to environmental differences across operating systems. Flask development requires a working and well-configured Python environment. Basic coding mistakes can lead to runtime errors that would be challenging to debug once deployed.",
+        "speak": "Before building the Flask app, Flask needs to be installed. Once installed, we create a new Flask object, define a basic route, and define endpoint functions within our main Flask app."
+    },
+    "command": {
+        "name": "execute_shell",
+        "args": {
+            "command_line": "python api.py command205.json"
+        }
+    }
+}
